@@ -1,7 +1,7 @@
 
 # **SelfDriving Car - Particle Filter Localization**
 
-A particle filter is implemneted and combined with a real map to localize a vehicle.
+A particle filter is implemented and combined with a real map to localize a vehicle.
 
 [//]: # (Image References)
 
@@ -10,6 +10,7 @@ A particle filter is implemneted and combined with a real map to localize a vehi
 [image3]: ./pid_perform4.png "mpc car3"
 
 ---
+A particle filter is implemnted to localize the car.
 
 ![alt text][image1]
 
