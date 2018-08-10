@@ -22,7 +22,7 @@ A particle filter is implemnted to localize the car.
 
 
 
-[Here's he video for localization][video1]
+[Here's the video for localization][video1]
 
 
 #### Note: This project is part of the udacity self driving car Nonadegree program. Details about the simulator and the setup instructions can be found [here](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project)
